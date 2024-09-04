@@ -2,8 +2,8 @@
 6 Legs. Project
 
 ## 목차
-[개요](#개요)
-[Branch 가이드](#Branch-가이드)
+* [개요](#개요)
+* [Branch 가이드](#Branch-가이드)
 ***
 ## 개요
 ***
