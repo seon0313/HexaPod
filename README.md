@@ -14,12 +14,12 @@
 정찰용 드론이 머리위에 있으며 필요에 따라 로봇팔, 짐벌등 확장 모듈을 머리 위에 설치 할 수 있다.
 ***
 ## Branch 가이드
-|Branch 이름|설명|
+|Branch 이름|설명|링크|
 |---|---|
-|main|최종 조립품|
-|base|몸체 설계품|
-|leg|다리 설계품|
-|connection_joint|모듈 연결부 설계품|
+|main|최종 조립품|[링크](#https://github.com/seon0313/HexaPod)|
+|base|몸체 설계품|[링크](#https://github.com/seon0313/HexaPod/tree/base)|
+|leg|다리 설계품|[링크](#https://github.com/seon0313/HexaPod/tree/leg)|
+|connection_joint|모듈 연결부 설계품|[링크](#https://github.com/seon0313/HexaPod/tree/connection_joint)|
 ***
 ## 팀원
 |이름|설계 역할(Branch명)|
