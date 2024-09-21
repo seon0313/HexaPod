@@ -15,7 +15,7 @@
 ***
 ## Branch 가이드
 |Branch 이름|설명|링크|
-|---|---|
+|---|---|---|
 |main|최종 조립품|[링크](#https://github.com/seon0313/HexaPod)|
 |base|몸체 설계품|[링크](#https://github.com/seon0313/HexaPod/tree/base)|
 |leg|다리 설계품|[링크](#https://github.com/seon0313/HexaPod/tree/leg)|
