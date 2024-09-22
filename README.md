@@ -36,6 +36,7 @@
 | 이름 | 사양 | 비고 |
 | --- | --- | --- |
 | Main | RPI 5 또는 Jetson Nano | 미정 |
+| OS | Ubuntu 22.04 | ROS2 Humble |
 | 다리모터 | | 미정 |
 
 ***
