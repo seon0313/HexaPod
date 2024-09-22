@@ -57,4 +57,4 @@ FONT LICENSE: SIL 오픈폰트라이선스(OFL)
 
 |프로젝트 명|링크|
 |---|---|
-|HexaDrone|[Link]([https://google.com](https://github.com/seon0313/HexaDrone.git))|
+|HexaDrone|[Link](https://github.com/seon0313/HexaDrone.git)|
